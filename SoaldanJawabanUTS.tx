@@ -1,0 +1,29 @@
+1 . Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+harfiah/istilah)
+Jawabanya:
+Framework adalah kerangka kerja atau suatu fondasi yang membantu pengembang dalam membuat atau mengembangkan suatu aplikasi, 
+sehingga pengembang dapat fokus pada pengembangan fitur khusus tanpa memulai semuanya dari awal . dan dengan menggunakan framewok pembuatan aplikasi lebih efisien
+
+1.  Sebutkan tema proyek yang sedang digarap!
+ Jawaban :
+  Tema yang sedang digarap yaitu " Sistem penjadwalan otomatis "
+
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+jobdesk dari masing-masing anggota!
+Jawaban : 1. Fazrian Baryfikri   : membuat frontend dan backend pada sistem SIPELAN'TIS
+          2. Tiara Sandra Dewi   : membuat design database dan membuat laporan final project
+          3. Nursyahiira Hanum S : membuat design UML final Project yang sedang di garap saat ini
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawaban :1.  Permasalahan yang didapat saat wawancara yaitu sering terjadinya betrok jadwal antar kelas, kemudian sering terjadinya tumpang tindih dalam pembuatan jadwal secara manual,
+dan sering terjadinya berubahan jadwal secara mendadak sehingga lab komputer sering terjadi bentrok atau penuh karena guru tidak konfirmasi jika ingin mengubah jadwal.
+         2.  Solusi yang didapat yaitu harus mengganti penjadwalan manual menjadi penjadwalan otomatis agar sistem bisa dengan mudah membuat dan mengatur jadwal, serta agar tidak adanya tumpang tindih antar kelas.
+             solusi kedua yaitu agar tidak ada perubahan jadwal secara mendadak yaitu dengan cara Guru sudah meminta reschedule 1 hari sebelum Jadwal dimulai.
+             Ada sistem informasi terkait penjadwalan dan perubahan jadwal
+             
+
+
+
+
